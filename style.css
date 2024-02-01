@@ -122,3 +122,11 @@ textarea {
 
 
 }
+
+@media (max-whidthh: 1100px) {
+
+    p{
+        display: none;
+    }
+    
+}
